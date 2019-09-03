@@ -1,0 +1,20 @@
+{
+  "name": "object-projection",
+  "version": "1.0.2",
+  "description": "simple functionality to validate objects inspired by mongodb projection method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "projection",
+    "simple js validation",
+    "validation"
+  ],
+  "author": "babak.zarrinbal@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3"
+  }
+}
