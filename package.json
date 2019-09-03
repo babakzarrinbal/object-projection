@@ -1,6 +1,6 @@
 {
   "name": "object-projection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple functionality to validate objects inspired by mongodb projection method",
   "main": "index.js",
   "scripts": {
